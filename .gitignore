@@ -3,16 +3,6 @@
 # dependencies
 /node_modules
 
-# testing
-/__tests__/
-/coverage/
-*.test.ts
-*.test.tsx
-*.spec.ts
-*.spec.tsx
-jest.config.js
-jest.setup.js
-
 # next.js
 /.next/
 /out/
